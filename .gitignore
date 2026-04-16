@@ -17,6 +17,20 @@
 *.blend1
 *.blend1.meta
 *.dwlt
+# Visual Studio / IDE
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash / memory dumps
+*.stackdump
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
